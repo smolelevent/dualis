@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ListakKL\ListakKL\bin\Debug\ListakKL.exe.config
+C:\Users\user\Desktop\ListakKL\ListakKL\bin\Debug\ListakKL.exe
+C:\Users\user\Desktop\ListakKL\ListakKL\bin\Debug\ListakKL.pdb
+C:\Users\user\Desktop\ListakKL\ListakKL\obj\Debug\ListakKL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ListakKL\ListakKL\obj\Debug\ListakKL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ListakKL\ListakKL\obj\Debug\ListakKL.exe
+C:\Users\user\Desktop\ListakKL\ListakKL\obj\Debug\ListakKL.pdb
