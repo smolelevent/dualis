@@ -1,7 +1,0 @@
-C:\Users\user\Desktop\Allat_KL\Allat_KL\obj\Debug\Allat_KL.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Allat_KL\Allat_KL\obj\Debug\Allat_KL.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Allat_KL\Allat_KL\bin\Debug\Allat_KL.exe.config
-C:\Users\user\Desktop\Allat_KL\Allat_KL\bin\Debug\Allat_KL.exe
-C:\Users\user\Desktop\Allat_KL\Allat_KL\bin\Debug\Allat_KL.pdb
-C:\Users\user\Desktop\Allat_KL\Allat_KL\obj\Debug\Allat_KL.exe
-C:\Users\user\Desktop\Allat_KL\Allat_KL\obj\Debug\Allat_KL.pdb
