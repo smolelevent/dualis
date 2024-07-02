@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\DatumokKL\DatumokKL\bin\Debug\DatumokKL.exe.config
+C:\Users\user\Desktop\DatumokKL\DatumokKL\bin\Debug\DatumokKL.exe
+C:\Users\user\Desktop\DatumokKL\DatumokKL\bin\Debug\DatumokKL.pdb
+C:\Users\user\Desktop\DatumokKL\DatumokKL\obj\Debug\DatumokKL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DatumokKL\DatumokKL\obj\Debug\DatumokKL.Form1.resources
+C:\Users\user\Desktop\DatumokKL\DatumokKL\obj\Debug\DatumokKL.Properties.Resources.resources
+C:\Users\user\Desktop\DatumokKL\DatumokKL\obj\Debug\DatumokKL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DatumokKL\DatumokKL\obj\Debug\DatumokKL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DatumokKL\DatumokKL\obj\Debug\DatumokKL.exe
+C:\Users\user\Desktop\DatumokKL\DatumokKL\obj\Debug\DatumokKL.pdb
