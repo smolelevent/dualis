@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\bin\Debug\PizzeriaKL.exe.config
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\bin\Debug\PizzeriaKL.exe
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\bin\Debug\PizzeriaKL.pdb
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\obj\Debug\PizzeriaKL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\obj\Debug\PizzeriaKL.Properties.Resources.resources
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\obj\Debug\PizzeriaKL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\obj\Debug\PizzeriaKL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\obj\Debug\PizzeriaKL.exe
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\obj\Debug\PizzeriaKL.pdb
+C:\Users\user\Desktop\PizzeriaKL\PizzeriaKL\obj\Debug\PizzeriaKL.PizzaForm.resources

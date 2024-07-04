@@ -1,0 +1,4 @@
+sajtos;1500;3000;
+szalonnás;900;1400;
+magyaros;950;1300;
+hawaii;850;1000;
