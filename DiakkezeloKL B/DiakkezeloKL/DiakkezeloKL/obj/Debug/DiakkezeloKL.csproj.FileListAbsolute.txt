@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\bin\Debug\DiakkezeloKL.exe.config
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\bin\Debug\DiakkezeloKL.exe
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\bin\Debug\DiakkezeloKL.pdb
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.Form1.resources
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.Properties.Resources.resources
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.exe
+C:\Users\user\Desktop\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.pdb
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\bin\Debug\DiakkezeloKL.exe.config
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\bin\Debug\DiakkezeloKL.exe
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\bin\Debug\DiakkezeloKL.pdb
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.Form1.resources
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.Properties.Resources.resources
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.exe
+C:\Users\user\Desktop\DiakkezeloKL B\DiakkezeloKL\DiakkezeloKL\obj\Debug\DiakkezeloKL.pdb
