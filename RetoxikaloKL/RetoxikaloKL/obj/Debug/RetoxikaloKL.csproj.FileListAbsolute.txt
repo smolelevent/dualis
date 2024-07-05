@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.BetoltoForm.resources
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.ItalLapForm.resources
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.SzamlaForm.resources
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.GaleriaForm.resources
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.SugoForm.resources
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.Properties.Resources.resources
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RetoxikaloKL\RetoxikaloKL\obj\Debug\RetoxikaloKL.csproj.CoreCompileInputs.cache
